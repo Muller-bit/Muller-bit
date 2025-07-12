@@ -11,13 +11,13 @@
 
 ### 🧰 Tech Stack
 
-<h2>
+<h1>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-</h2>
+</h1>
 
 ---
 
