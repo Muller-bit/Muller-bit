@@ -5,7 +5,7 @@
 - 🔭 I’m building cool Web3 apps and tools (like a GradeBook, TAO Tracker, and more)
 - 💬 Ask me about **JavaScript, smart contracts, Web3 analytics, and crypto**
 - 📫 Reach me: **mulualemdarimo76@gmail.com**
-- ⚡ Fun fact: I used to be a Project Manager before becoming a developer!
+  
 
 ---
 
