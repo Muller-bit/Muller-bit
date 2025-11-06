@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/8zR2XWj.png" alt="banner" width="100%" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab6c78f1-4683-4b0e-8834-dfeff887a727" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Mulualem Darimo</h1>
