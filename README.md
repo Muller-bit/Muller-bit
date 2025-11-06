@@ -45,9 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller-bit&layout=compact&theme=radical" height="165" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muller-bit&show_icons=true&theme=radical" />
-</p>
+
 
 ---
 
