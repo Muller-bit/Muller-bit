@@ -1,67 +1,70 @@
-<!-- Banner -->
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/Muller-bit/Muller-bit/blob/main/banner.png" alt="banner" width="100%">
+  <img src="https://i.imgur.com/8zR2XWj.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hey, I'm Mulualem Darimo</h1>
+<h3 align="center">Full-Stack Blockchain Developer | Web3 Entrepreneur | Security Researcher</h3>
+
+---
+
+### 🧠 About Me  
+- 🚀 Building decentralized apps and researching smart contract security  
+- 🔐 Passionate about blockchain auditing, Web3 infrastructure & on-chain analytics  
+- 💻 Currently improving my Solidity, Next.js & EVM security skills  
+- 🧩 Exploring blockchain data dashboards & automation tools  
+- 📫 Reach me: **mulualemdarimo76@gmail.com**  
+- 💼 Connect: [LinkedIn](https://www.linkedin.com/in/mulualem-darimo-2025621ba/)  
+
+---
+
+### 🧰 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=purple" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-### 👋 Hi, I'm **Mulualem Darimo**
-
-🚀 **Full-Stack Blockchain Developer | Web3 Entrepreneur | Security Researcher**
-
-Bridging **decentralized technologies** with **real-world solutions** — from full-stack dApps to blockchain auditing and smart contract security.
-
----
-
-### 🧠 What I'm Working On
-- 🔐 Learning blockchain **security auditing** and Solidity exploit patterns  
-- 🧱 Building decentralized applications using **Next.js + Solidity + ethers.js**  
-- 📊 Exploring on-chain analytics, Dune dashboards & DeFi data flows  
+### 🧩 Currently Working On  
+- Learning blockchain security auditing & EVM exploitation patterns  
+- Building decentralized applications using **Solidity**, **Next.js**, and **Node.js**  
+- Expanding Web3 analytics experience with **Dune** and **smart contract testing tools**
 
 ---
 
-### 🧰 Tech Stack
-<div align="center">
-
-| Category | Tools |
-|-----------|--------|
-| **Frontend** | React, Next.js, TailwindCSS |
-| **Backend** | Node.js, Express, MongoDB |
-| **Blockchain** | Solidity, Foundry, Hardhat, Ethers.js |
-| **DevOps & Tools** | Git, Docker, Postman, VS Code |
-| **Security** | Smart Contract Auditing, Threat Modeling |
-
-</div>
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muller-bit&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller-bit&layout=compact&theme=radical&hide_border=true" height="150" />
-</div>
-
----
-
-### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muller-bit&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌍 Connect with Me
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://www.linkedin.com/in/mulualem-darimo-2025621ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mulualemdarimo76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Muller-bit" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muller-bit&show_icons=true&theme=radical" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller-bit&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muller-bit&theme=radical" alt="streak" />
 </p>
 
 ---
 
-### 💬 Quote
-> “Code. Break. Learn. Secure. Repeat.”
+### ⚡ Fun Facts  
+- 🧬 I love debugging complex Solidity contracts  
+- ☕ Coffee + Code = Perfect Morning  
+- 🌍 Based in Poland, open to remote Web3 collaborations  
 
 ---
 
-⭐ **Let's Build the Decentralized Future.**
+### 🌐 Let’s Connect  
+<p align="center">
+  <a href="https://github.com/Muller-bit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/mulualem-darimo-2025621ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mulualemdarimo76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muller-bit&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+</p>
