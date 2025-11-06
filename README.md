@@ -37,5 +37,4 @@
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulualem-darimo-2025621ba/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Muller-bit)<h1 align="center">Hi 👋, I'm Mulualem Darimo</h1>
-
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Muller-bit)<h1 align="center">
