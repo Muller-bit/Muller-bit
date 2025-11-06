@@ -43,9 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muller-bit&layout=compact&theme=radical" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muller-bit&theme=radical" alt="streak" />
-</p>
+
 
 
 
