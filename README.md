@@ -1,7 +1,5 @@
 <!-- Banner Section -->
-<p align="center">
- 
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Mulualem Darimo</h1>
 <h3 align="center">💻 Junior Blockchain Developer and Smart Contract Researcher | Defi | On-chain analyst  </h3>
