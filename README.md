@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mulualem Darimo</h1>
-<h3 align="center">💻 Junior Blockchain Developer and Smart Contract Researcher | Defi | On-chain analyst  </h3>
+<h3 align="center">💻Blockchain Developer and Smart Contract Researcher | Defi | On-chain analyst  </h3>
 
 - 🌱 I’m currently learning **Solidity, Foundry, and full-stack blockchain development**
 - 🔭 I’m building cool Web3 apps and tools (like a GradeBook, TAO Tracker, and more)
