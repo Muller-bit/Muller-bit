@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Mulualem Darimo</h1>
-<h3 align="center">💻Blockchain Developer and Smart Contract Security Researcher | Defi | On-chain analyst  </h3>
+<h3 align="center">Operations Specialist | Transaction & Risk Operations  | Web3 & DeFi | BSc Computer Science · MSc Economics & Finance  </h3>
 
-- 🌱 I’m currently learning **Solidity, Foundry, and full-stack blockchain development**
-- 🔭 I’m building cool Web3 apps and tools (like a GradeBook, TAO Tracker, and more)
-- 💬 Ask me about **JavaScript, smart contracts, Web3 analytics, and crypto**
-- 📫 Reach me: **mulualemdarimo76@gmail.com**
+Operations professional with 4+ years in back-office operations, transaction processing and financial workflow management  transitioning into Security GRC and risk analysis. My day-to-day centers on the disciplines GRC roles run on , defect resolution, root-cause analysis, incident escalation, internal controls and audit-ready documentation.
+
+I hold a BSc in Computer Science, am completing an MSc in Economics & Finance, and have completed foundational training in Web3 security through Cyfrin Updraft and Harvard's CS50 Cybersecurity. 
+Currently pursuing CompTIA Security+ and Microsoft SC-900.
   
 
 ---
