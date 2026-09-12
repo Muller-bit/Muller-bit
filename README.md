@@ -12,6 +12,9 @@
 
 <br/>
 
+<img width="1107" height="192" alt="image" src="https://github.com/user-attachments/assets/39d75b54-d236-4bf2-91f6-a692f0dc380a" />
+
+
 ### 👋 About me
 
 I'm a Senior Operations Manager with a B.Sc. in Computer Science and an MSc in Economics & Finance — currently building deep expertise in **cybersecurity, cloud security, and GRC (Governance, Risk & Compliance)**.
